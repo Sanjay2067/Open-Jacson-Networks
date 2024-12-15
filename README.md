@@ -25,8 +25,8 @@ Visual components and Python
 
 ## Program
 ```
-DEVELOPED BY: Pranav K
-REF NO: 24900545
+DEVELOPED BY: MAGENDRA SANJAY S
+REF NO: 24900652
 
 ```
 ```
